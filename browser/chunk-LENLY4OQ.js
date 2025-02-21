@@ -1,0 +1,1 @@
+import{qa as o}from"./chunk-22342MAH.js";import{Z as t,ca as a}from"./chunk-QSF35MWG.js";var c=class e{constructor(r){this.messageService=r}add({severity:r,summary:i,detail:s}){this.messageService.add({severity:r,summary:i,detail:s})}static \u0275fac=function(i){return new(i||e)(a(o))};static \u0275prov=t({token:e,factory:e.\u0275fac,providedIn:"root"})};export{c as a};
